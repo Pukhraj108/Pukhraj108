@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pukhrajdhami&label=Profile%20views&color=0e75b6&style=flat" alt="pukhrajdhami" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pukhrajdhami" alt="pukhrajdhami" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pukhraj Dhami" alt="pukhraj Dhami" /></a> </p>
 
 - 🔭 I’m currently working on **full stack projects**
 
